@@ -4,7 +4,6 @@
 - **Languages:** Java, SQL, JavaScript
 - **Frameworks:** React, Node.js
 - **Databases:** MongoDB
-- 
 - 📫 How to reach me girishsaidhulipala@gmail.com
 - 😄 Pronouns: Girish Sai
 - ⚡ Fun fact:  I love exploring new places and cultures and I enjoy trying different cuisines
