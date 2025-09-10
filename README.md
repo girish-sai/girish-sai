@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @girish-sai
-- 🌱 I’m currently learning MERN Stack
+- 🌱 MERN Stack Developer
 - 🚀 Tech Stack: 
 - **Languages:** Java, SQL, JavaScript
 - **Frameworks:** React, Node.js
